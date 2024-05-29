@@ -10,7 +10,7 @@ Analyzing Simpsons Show Scripts: Character Insights and Viewer Engagement
 This project analyzes the script data from The Simpsons show to gain insights into the characters' dialogues, their sentiment, and viewer engagement metrics such as ratings and votes.We focused on the main characters of the show 
 
 
-### Table of Contents  
+## Table of Contents  
 
 [Objectives
 ](#headers)  
