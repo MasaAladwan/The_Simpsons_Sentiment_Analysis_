@@ -107,6 +107,7 @@ This project analyzes the script data from The Simpsons show to gain insights in
 ## WordCloud
 
 ## PowerBi
+![image](https://github.com/MasaAladwan/The_Simpsons_Sentiment_Analysis_/assets/142498123/368d413a-b6dc-4731-a37b-929d625ee11d)
 
 
 ## Requirements:
