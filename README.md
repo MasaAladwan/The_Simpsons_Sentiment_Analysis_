@@ -3,7 +3,7 @@
 
 Analyzing Simpsons Show Scripts: Character Insights and Viewer Engagement
 
- Made by [Masa Aladwan](https://github.com/MasaAladwan) and [Mohammad Moataz](https://github.com/MohammadMoataz2)
+ Made by [Masa Aladwan](https://github.com/MasaAladwan) and [O'taymh Abu Taha](https://github.com/Otaymh)
 
 ## Project Overview
 
