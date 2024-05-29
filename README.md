@@ -108,6 +108,8 @@ This project analyzes the script data from The Simpsons show to gain insights in
 
 ## PowerBi
 ![image](https://github.com/MasaAladwan/The_Simpsons_Sentiment_Analysis_/assets/142498123/368d413a-b6dc-4731-a37b-929d625ee11d)
+![image](https://github.com/MasaAladwan/The_Simpsons_Sentiment_Analysis_/assets/142498123/c0c250f0-dd1b-4161-bd5e-046368e8714b)
+![image](https://github.com/MasaAladwan/The_Simpsons_Sentiment_Analysis_/assets/142498123/f9515edd-9e46-4e62-be38-7b321d317df0)
 
 
 ## Requirements:
