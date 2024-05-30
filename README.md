@@ -133,7 +133,25 @@ pip install -r requirements.txt
 
 
 ## Results :
-* Characters Activity : 
+* Characters Activity :
+
+#### - Homer Simpson 
+      . First : 10241
+      . Mid : 9745
+      .Final : 8115
+#### - Marge Simpson 
+      . First : 5018
+      . Mid :  4589
+      .Final : 3658
+#### - Bart Simpson 
+      . First : 4858
+      . Mid : 4519
+      .Final : 3808
+#### - Lisa Simpson 
+      . First : 3788
+      . Mid : 3836
+      .Final : 3253 
+
 * Accuracy for models
   - TF-IDF
  
