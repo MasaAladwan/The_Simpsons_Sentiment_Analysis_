@@ -152,7 +152,7 @@ pip install -r requirements.txt
       . Mid : 3836
       .Final : 3253 
 
-* Accuracy for models
+* Accuracy for models :
   - TF-IDF
  
   
@@ -163,7 +163,7 @@ pip install -r requirements.txt
   ![image](https://github.com/MasaAladwan/The_Simpsons_Sentiment_Analysis_/assets/142498123/fce3e35f-3d43-443b-ae1e-ee5b0e2d3c30)
 
 
-SSentiment Distribution Summary
+Sentiment Distribution Summary
 * TextBlob Sentiment Distribution
   * Neutral: 42,588 instances
   * Positive: 14,010 instances
