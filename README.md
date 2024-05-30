@@ -107,8 +107,11 @@ This project analyzes the script data from The Simpsons show to gain insights in
 ## WordCloud
 
 ![image](https://github.com/MasaAladwan/The_Simpsons_Sentiment_Analysis_/assets/142498123/e0e98812-be33-45ac-a774-25a51d4f5df9)
+
 ![image](https://github.com/MasaAladwan/The_Simpsons_Sentiment_Analysis_/assets/142498123/2267bf40-67f4-4eee-bfdb-d9a757422287)
+
 ![image](https://github.com/MasaAladwan/The_Simpsons_Sentiment_Analysis_/assets/142498123/355a3360-50d1-4812-b1e7-3b56e655e6e6)
+
 ![image](https://github.com/MasaAladwan/The_Simpsons_Sentiment_Analysis_/assets/142498123/6fc3c1ab-02ca-4690-9b6f-ca95b7b06eed)
 
 
@@ -132,9 +135,13 @@ pip install -r requirements.txt
 ## Results :
 * Characters Activity : 
 * Accuracy for models
-  - TF-IDF 
+  - TF-IDF
+ 
+  
   ![image](https://github.com/MasaAladwan/The_Simpsons_Sentiment_Analysis_/assets/142498123/45856fe9-ae52-437d-bc6d-87fe28c26b7c)
   - Textblob
+ 
+  
   ![image](https://github.com/MasaAladwan/The_Simpsons_Sentiment_Analysis_/assets/142498123/fce3e35f-3d43-443b-ae1e-ee5b0e2d3c30)
 
 
