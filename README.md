@@ -121,15 +121,6 @@ This project analyzes the script data from The Simpsons show to gain insights in
 ![image](https://github.com/MasaAladwan/The_Simpsons_Sentiment_Analysis_/assets/142498123/f9515edd-9e46-4e62-be38-7b321d317df0)
 
 
-## Requirements:
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-## Resources :
-* Data : https://www.kaggle.com/datasets/prashant111/the-simpsons-dataset
-
 
 
 ## Results :
@@ -180,3 +171,15 @@ Sentiment Distribution Summary
    * Negative Sentiment: TextBlob also identified more negative instances (8,830) than TF-IDF (4,221).
 
 * these results suggest that TextBlob tends to classify more dialogues as positive or negative compared to the custom TF-IDF method, which leans more towards neutral classifications
+
+
+## Requirements:
+Install dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+## Resources :
+* Data : https://www.kaggle.com/datasets/prashant111/the-simpsons-dataset
+
+
