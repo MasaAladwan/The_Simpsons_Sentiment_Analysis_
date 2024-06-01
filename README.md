@@ -72,7 +72,7 @@ This project analyzes the script data from The Simpsons show to gain insights in
 
 ## Data Preprocessing 
 
-* Identified and handled miss input in the "raw_character_text" column by comparing it with the "character_id" column"
+* Identified and handled miss input in the "raw_character_text" column by comparing it with the "character_id" column
 * Null values in 'character_id' column represent scenes (scenes don't have IDs)
 * Converted the character_id from object to int, as the column contains both int and float values.
 * Timestamp Conversion: Convert the timestamp_ms column from milliseconds to minutes to see if they speak more at the beginning, middle, or end of the episode
